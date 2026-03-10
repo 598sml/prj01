@@ -43,4 +43,4 @@ Identify the single biggest unresolved issue for the project.
 Commit the following:
 - `prj01/presentation` (.md or .pdf or similar)
 - `prj01/idea.md`, using `2_idea.md` as a guide
-- `prj01/feedback.md`, from your peer, using `3_feedback.md` as a guide
+- `prj01/feedback_name.md`, where `name` is the project identifier for your peer's project, using `3_feedback.md` as a guide.  Give a link.
